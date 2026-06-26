@@ -33,15 +33,17 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=hdRutvik114&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hdRutvik114&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hdRutvik114&theme=tokyonight&hide_border=false" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hdRutvik114&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdRutvik114&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdRutvik114&theme=tokyonight&hide_border=false&layout=compact" />
+</p>
 
 ---
 
@@ -102,6 +104,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=4000&pause=1500&color=6E7681&center=true&vCenter=true&width=700&lines=Code.+Learn.+Repeat.+🦇;Backend+%7C+AI+%7C+Machine+Learning.+;Currently+building,+always+learning.+🦇" />
 </p>
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=hdRutvik114&style=for-the-badge)
+ 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hdRutvik114&style=for-the-badge" alt="Profile Views" />
+</p>
