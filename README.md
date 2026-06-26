@@ -16,7 +16,7 @@
 
 🎯 **Dream Goal:** Build successful AI products, launch startups, and create technology that reaches millions of people.
 
----
+
 
 # 🌐 Socials
 
@@ -38,14 +38,14 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=hdRutvik114&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hdRutvik114&theme=tokyonight&hide_border=false" />
+ 
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdRutvik114&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 
----
+
 
 # 💻 Tech Stack
 
@@ -55,15 +55,14 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 </p>
 
----
+
 
 ## 🎨 Frontend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,jquery" />
 </p>
-**Also experienced with:** EJS • DaisyUI • React Router
----
+
 
 ## 🛠 Backend
 
@@ -71,7 +70,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,npm" />
 </p>
 
----
+
 
 ## ☁ Cloud & DevOps
 
@@ -79,15 +78,13 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
----
+
 
 ## 🗄 Databases
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
-
----
 
 ## 🧰 Tools
 
@@ -97,7 +94,7 @@
 
 ### 
 
----
+
 
 
 
