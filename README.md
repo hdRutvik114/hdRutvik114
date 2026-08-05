@@ -1,16 +1,14 @@
 # Hi, I'm Rutvik 👋
 
-### Computer Science Student | Software Developer | AI & Backend Enthusiast
+### AI AND DS  | AI & Backend Enthusiast
 
 Passionate about building scalable backend systems, AI-powered applications, and modern web solutions. I enjoy solving real-world problems through software engineering while continuously learning and building practical projects.
 
 ## About Me
 
 - Currently exploring **Machine Learning, Deep Learning, and Generative AI**
+- Main goal for LLMS
 - Building full-stack applications using **React, Node.js, Express.js, FastAPI, and PostgreSQL**
-- Interested in **LLMs, Agentic AI, backend architecture, and scalable systems**
-- Participating in hackathons and open-source projects to strengthen practical engineering skills
-
 ---
 
 # 🌐 Connect
@@ -57,7 +55,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,npm" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,npm" />
 </p>
 
 ## Databases
@@ -69,7 +67,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ## Tools
