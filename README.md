@@ -22,9 +22,6 @@ Passionate about building scalable backend systems, AI-powered applications, and
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
