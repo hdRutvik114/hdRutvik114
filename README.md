@@ -1,4 +1,4 @@
-# Hi, I'm Rutvik 👋
+# Hi, I'm Rutvik 
 
 ### AI AND DS  | AI & Backend Enthusiast
 
@@ -11,7 +11,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 - Building full-stack applications using **React, Node.js, Express.js, FastAPI, and PostgreSQL**
 ---
 
-# 🌐 Connect
+# Connect
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
@@ -35,7 +35,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 
