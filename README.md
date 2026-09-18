@@ -6,7 +6,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 ## About Me
 
-- Currently exploring **Machine Learning, Deep Learning, and Generative AI**
+- Currently exploring ** Deep Learning, and Generative AI**
 - Main goal for LLMS
 - Building full-stack applications using **React, Node.js, Express.js, FastAPI, and PostgreSQL**
 ---
