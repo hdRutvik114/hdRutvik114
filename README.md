@@ -28,10 +28,13 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 # 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hdRutvik114&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hdRutvik114&theme=tokyonight&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdRutvik114&theme=tokyonight&layout=compact&hide_border=true" />
 </p>
+
+
 
 ---
 
